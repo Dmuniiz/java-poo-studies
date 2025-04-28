@@ -1,4 +1,4 @@
-package br.com.poo.loaine.jogodavelha;
+package br.com.poo.loiane.jogodavelha;
 
 import java.util.Scanner;
 
